@@ -11,7 +11,7 @@ const Header = () => {
               className="header-h2"
               style={{ fontFamily: "monospace", fontSize: "30px" }}
             >
-              Redux Shopping App
+              Laptops Shopping App
             </h2>
           </li>
           <li>
