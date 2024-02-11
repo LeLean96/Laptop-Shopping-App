@@ -1,0 +1,2 @@
+Using thunk pattern helps us to keep all the logic, all the data and action creaters inside Resux store
+also keep components clean and keep the state management logic and all its side effects inside Redux..
